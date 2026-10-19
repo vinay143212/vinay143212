@@ -1,5 +1,19 @@
 # 💫 About Me:
-AI & ML Enthusiast | Python Developer | Passionate about Deep Learning and Data Analysis | Seeking Internship Opportunities 🔍
+👋 Hi, I'm Vinay S
+
+🤖 AI & ML Student & Developer
+🐍 Python | Machine Learning | Data Analysis
+📊 NumPy | Pandas | Matplotlib | Seaborn
+🗄️ MySQL | Flask | Git & GitHub
+
+🎯 Currently learning Machine Learning
+🚀 Building real-world AI/ML projects
+
+📌 Featured Projects
+• Scholarship Prediction
+• AI Fitness Assistance
+• Student Management System
+• ML Classification Projects
 
   
 ## 🌐 Socials:  
