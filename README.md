@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  
 👋 Hi, I'm Vinay S
 
 🤖 AI & ML Student & Developer
