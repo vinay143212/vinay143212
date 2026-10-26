@@ -3,7 +3,7 @@
 
 🤖 AI & ML Student & Developer
 
-🐍 Python | Machine Learning | Data Analysis
+🐍 Python | Machine Learning | Data Analysis  
 
 📊 NumPy | Pandas | Matplotlib | Seaborn
 🗄️ MySQL | Flask | Git & GitHub
