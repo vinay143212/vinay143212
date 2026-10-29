@@ -12,6 +12,7 @@
 🚀 Building real-world AI/ML projects
 
 📌 Featured Projects
+
 • Scholarship Prediction
 
 • AI Fitness Assistance
