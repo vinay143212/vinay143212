@@ -16,6 +16,7 @@
 • Scholarship Prediction
 
 • AI Fitness Assistance
+
 • Student Management System
 • ML Classification Projects
 
