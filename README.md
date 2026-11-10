@@ -1,5 +1,5 @@
 # 💫 About Me:  
-👋 Hi, I'm Vinay S
+👋 Hi, I'm Vinay S. 
 
 🤖 AI & ML Student & Developer
 
